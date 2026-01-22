@@ -1,0 +1,5 @@
+{
+  "name": "Glossy Flash",
+  "description": "A minimalistic flashcard app that transforms a list of glosses into study cards using AI-powered translation.",
+  "requestFramePermissions": []
+}
